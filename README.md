@@ -32,3 +32,13 @@ A smart S3 bucket at AWS with new uploads notification to email and sms using AW
   - Up to 1 GB / Month,  free request per 1 month and 400.000 GB-seconds
   - Requests - $0.20 per 1 M requests
 
+### Sources 
+  - Thanks to Profesor Zachay Rubin for lectures, zrubin@rtc.edu
+  - Thanks to Liviu Patrasco for tutoring help, liviu_patrasco@hotmail.com
+  - https://aws.amazon.com/sns/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc
+  - https://aws.amazon.com/lambda/
+  - http://34.220.101.162:8310/secure/RapidBoard.jspa?rapidView=40&projectKey=CNA241KEY&view=detail&selectedIssue=CNA241KEY-2
+  - https://github.com/dvozian/smart-s3-bucket
+  - https://rb.gy/fd8tuc
+  - https://www.youtube.com/watch?v=6mYLqTZ5FHg
+  - https://www.youtube.com/watch?v=PsJsP-7cydk
